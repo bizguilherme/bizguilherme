@@ -5,8 +5,8 @@
 ##
 
 <div>
-<a href="http://lattes.cnpq.br/9667686531166686" target="_blank"><img height="30"width="90" src="http://www.uel.br/pessoal/biz/pages/arquivos/lattes.png" target="_blank"></a>
-<a href="https://orcid.org/0000-0002-0447-3521" target="_blank"><img height="30"width="90" src="http://www.uel.br/pessoal/biz/pages/arquivos/orcid.png" target="_blank"></a>
+<a href="http://lattes.cnpq.br/9667686531166686" target="_blank"><img height="30"width="100" src="http://www.uel.br/pessoal/biz/pages/arquivos/lattes.png" target="_blank"></a>
+<a href="https://orcid.org/0000-0002-0447-3521" target="_blank"><img height="30"width="100" src="http://www.uel.br/pessoal/biz/pages/arquivos/orcid.png" target="_blank"></a>
 </div>
 
 <!--
