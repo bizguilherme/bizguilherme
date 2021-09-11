@@ -2,6 +2,12 @@
 
 ### 👨‍🏫 Professor de Estatística na UEL desde 2012
 ### 👨🏼‍🎓 Doutor em Ciências (Estatística e Experimentação Agronômica) pela ESALQ
+##
+
+<div>
+<a href="http://lattes.cnpq.br/9667686531166686" target="_blank"><img src="http://www.uel.br/pessoal/biz/pages/arquivos/curriculo-lattes.png" target="_blank"></a>
+  
+</div>
 
 <!--
 **bizguilherme/bizguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
