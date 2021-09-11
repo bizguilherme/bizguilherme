@@ -6,7 +6,7 @@
 
 <div>
 <a href="http://lattes.cnpq.br/9667686531166686" target="_blank"><img src="http://www.uel.br/pessoal/biz/pages/arquivos/lattes.png" target="_blank"></a>
-
+<a href="http://lattes.cnpq.br/9667686531166686" target="_blank"><img src="http://www.uel.br/pessoal/biz/pages/arquivos/orcid.png" target="_blank"></a>
 </div>
 
 <!--
