@@ -1,5 +1,7 @@
 ## Olá, meu nome é Guilherme Biz!
 
+### 👨‍🏫 Professor de Estatística na UEL 
+
 <!--
 **bizguilherme/bizguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
